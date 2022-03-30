@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reinvestcalc-app/static/css/main.53aaedb5.chunk.css",
+    "main.js": "/reinvestcalc-app/static/js/main.26fdfeb7.chunk.js",
+    "main.js.map": "/reinvestcalc-app/static/js/main.26fdfeb7.chunk.js.map",
+    "runtime-main.js": "/reinvestcalc-app/static/js/runtime-main.ba6f88ec.js",
+    "runtime-main.js.map": "/reinvestcalc-app/static/js/runtime-main.ba6f88ec.js.map",
+    "static/css/2.27175f2b.chunk.css": "/reinvestcalc-app/static/css/2.27175f2b.chunk.css",
+    "static/js/2.e42edfce.chunk.js": "/reinvestcalc-app/static/js/2.e42edfce.chunk.js",
+    "static/js/2.e42edfce.chunk.js.map": "/reinvestcalc-app/static/js/2.e42edfce.chunk.js.map",
+    "static/js/3.c93bc4f0.chunk.js": "/reinvestcalc-app/static/js/3.c93bc4f0.chunk.js",
+    "static/js/3.c93bc4f0.chunk.js.map": "/reinvestcalc-app/static/js/3.c93bc4f0.chunk.js.map",
+    "index.html": "/reinvestcalc-app/index.html",
+    "static/css/2.27175f2b.chunk.css.map": "/reinvestcalc-app/static/css/2.27175f2b.chunk.css.map",
+    "static/css/main.53aaedb5.chunk.css.map": "/reinvestcalc-app/static/css/main.53aaedb5.chunk.css.map",
+    "static/js/2.e42edfce.chunk.js.LICENSE.txt": "/reinvestcalc-app/static/js/2.e42edfce.chunk.js.LICENSE.txt",
+    "static/js/simulations.worker.d0e2be2e.worker.js": "/reinvestcalc-app/static/js/simulations.worker.d0e2be2e.worker.js",
+    "static/js/simulations.worker.d0e2be2e.worker.js.LICENSE.txt": "/reinvestcalc-app/static/js/simulations.worker.d0e2be2e.worker.js.LICENSE.txt",
+    "static/js/simulations.worker.d0e2be2e.worker.js.map": "/reinvestcalc-app/static/js/simulations.worker.d0e2be2e.worker.js.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba6f88ec.js",
+    "static/css/2.27175f2b.chunk.css",
+    "static/js/2.e42edfce.chunk.js",
+    "static/css/main.53aaedb5.chunk.css",
+    "static/js/main.26fdfeb7.chunk.js"
+  ]
+}
